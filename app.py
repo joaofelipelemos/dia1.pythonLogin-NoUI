@@ -23,7 +23,7 @@ Alertar caso login ou senha errado;
 user_escolha = input(
     '1. Deseja cadastrar novo usuário? 2. Deseja realizar login?')
 # Armazenando usuários existentes
-usuarios = ['Pedro', 'João', 'José']
+usuarios = ['Jorge', 'João', 'José']
 senhas = ['123', '456', '789']
 # Código cadastro
 match user_escolha:
